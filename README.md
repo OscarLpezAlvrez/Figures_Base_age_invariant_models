@@ -2,7 +2,7 @@
 
 Figures from the paper "Base-age invariant models for predicting individual tree accumulated annual resin yield using two tapping methods in maritime pine (Pinus pinaster Ait.) forests in north-western Spain", which is under review in Forest Ecology and Management.
 
-- Figure_1.png: Distributions area of the maritime pine stands used in the study
+- [Figure_1.png](Figure_1.png): Distributions area of the maritime pine stands used in the study
 - Figure_2.png: Statistical differences test between the resin yields of each plot. The statistical tests between groups were perform with statistical software R (R Core Team, 2022) and the “ggstatsplot” package (Patil, 2021).
 - Figure_3.jpg: Statistical differences between a) the extraction methods and b) and c) the stimulant pastes according to the extraction method. The statistical tests between groups were perform with statistical software R (R Core Team, 2022) and the “ggstatsplot” package (Patil, 2021).
 - Figure_4.png: Resin yields of individual grooves during the tapping season of the two methods, non-mechanized tapping method (continuous line) and mechanized circular groove method (dashed line).
