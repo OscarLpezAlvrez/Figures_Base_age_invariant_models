@@ -1,6 +1,6 @@
 # Figures_Base_age_invariant_models
 
-Figures from the paper "Base-age invariant models for predicting individual tree accumulated annual resin yield using two tapping methods in maritime pine (Pinus pinaster Ait.) forests in north-western Spain", which is under review in Forest Ecology and Management.
+Figures from the paper "Base-age invariant models for predicting individual tree accumulated annual resin yield using two tapping methods in maritime pine (Pinus pinaster Ait.) forests in north-western Spain", which is published in Forest Ecology and Management (<https://doi.org/10.1016/j.foreco.2023.121501>).
 
 - [Figure_1.png](Figure_1.png): Distributions area of the maritime pine stands used in the study
 - [Figure_2.png](Figure_2.png): Statistical differences test between the resin yields of each plot. The statistical tests between groups were perform with statistical software R (R Core Team, 2022) and the “ggstatsplot” package (Patil, 2021).
